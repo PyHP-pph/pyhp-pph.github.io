@@ -1,4 +1,5 @@
 # PyHP++#
+## The language of tomorrow, today.
 
 PyHP++# is a programming language originally created by Redditor u/DarkJarris and named by u/alexbuzzbee. The community started as the subreddit r/PyHP_pph, specifications were made, and users from r/ProgrammerHumor flocked to the sub. In June 2017, the PyHP++# GitHub repository was made to allow everyone to easiy contribute. 
 
